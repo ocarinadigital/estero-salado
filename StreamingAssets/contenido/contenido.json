@@ -3,153 +3,195 @@
     {
       "codigo": "H01",
       "imagenes": [],
-      "video": "",
+      "video": "videos/Video Oficial Restauracion Estero Salado.mp4",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H02",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Inicio.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H03",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Panorama.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H04",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Equipo.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H05",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Estudio Batimetrico.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H06",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Microorganismos Nativos.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H07",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Pruebas.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H08",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Dosis Adecuada.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H09",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Primeras Evidencias.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H10",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Produccion Gran Escala.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H11",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Planificacion Estaciones de Aplicacion.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H12",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Aplicacion a Gran Escala.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H13",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Mallas.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H14",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Retiro de Residuos.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H15",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Limpieza Comunitaria.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H16",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Islas Flotantes.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H17",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Camaras Trampa.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H18",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Resultados 1.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "H19",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/pantallas/Resultados 2.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V01",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Poster Estero Salado.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V02",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Ocelote.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V03",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Canario.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
@@ -157,188 +199,240 @@
     {
       "codigo": "V04",
       "imagenes": [],
-      "video": "",
+      "video": "videos/Video Biorremediacion.mp4",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V05",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Cocodrilos.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V06",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Bacterias.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V07",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Carpintero.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V08",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Nitrogenados.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V09",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Ciclo_Nitrogeno.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V10",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Boa.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V11",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Colibri.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V12",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Iguana.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V13",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Cangrejo.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V14",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Impacto1.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V15",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Pato.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V16",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Impacto2.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V17",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Impacto3.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V18",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Tirano.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V19",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Especies.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V20",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Garza_Nocturna.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V21",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Especies2.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V22",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Zarigueya.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V23",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Garza_Blanca.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V24",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Mangle.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V25",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Estacion_Meteo.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V26",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Gasteropodos.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V27",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Monitoreo.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V28",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Medicion.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V29",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Lagartija.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
     },
     {
       "codigo": "V30",
-      "imagenes": [],
+      "imagenes": [
+        "imagenes/banners/Banner_Vertical_Mediciones.jpg"
+      ],
       "video": "",
       "ajuste": "contener",
       "silencio": true
