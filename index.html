@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Estero Salado · Ecotec</title>
+    <meta name="description" content="Aula virtual Estero Salado para navegador y Meta Quest">
+    <link rel="shortcut icon" href="TemplateData/favicon.ico">
+    <link rel="stylesheet" href="TemplateData/style.css">
+  </head>
+  <body>
+    <div id="unity-container">
+      <canvas id="unity-canvas" tabindex="-1"></canvas>
+
+      <div id="carga">
+        <p class="marca">Ecotec · Aula virtual</p>
+        <h1>Estero Salado</h1>
+        <div class="carriles" aria-hidden="true"></div>
+        <div id="barra"><div id="barra-llena"></div></div>
+        <p id="estado">Cargando el aula…</p>
+      </div>
+
+      <div id="controles" hidden>
+        <div id="ayuda">
+          <p><strong>En la compu:</strong> W A S D o flechas para caminar · arrastrá con el mouse para mirar · Shift para ir más rápido</p>
+          <p><strong>En el casco:</strong> joystick izquierdo para caminar · joystick derecho para girar · apretalo para ir más rápido</p>
+        </div>
+        <button id="entervr" disabled>Entrar en VR</button>
+      </div>
+    </div>
+    <script>
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/WebXR.loader.js";
+      var config = {
+        dataUrl: buildUrl + "/WebXR.data.unityweb",
+        frameworkUrl: buildUrl + "/WebXR.framework.js.unityweb",
+        codeUrl: buildUrl + "/WebXR.wasm.unityweb",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Ocarina Digital",
+        productName: "Estero Salado",
+        productVersion: "0.1.0",
+      };
+
+      var canvas = document.querySelector("#unity-canvas");
+      var carga = document.querySelector("#carga");
+      var barra = document.querySelector("#barra-llena");
+      var estado = document.querySelector("#estado");
+      var controles = document.querySelector("#controles");
+      var unityInstance = null;
+      
+
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+          barra.style.width = 100 * progress + "%";
+          estado.textContent = "Cargando el aula… " + Math.round(100 * progress) + " %";
+        }).then((instance) => {
+          unityInstance = instance;
+          carga.hidden = true;
+          controles.hidden = false;
+        }).catch((message) => {
+          estado.textContent = "No se pudo cargar el aula: " + message;
+        });
+      };
+      document.body.appendChild(script);
+
+      var enterVRButton = document.getElementById("entervr");
+      document.addEventListener("onVRSupportedCheck", function (event) {
+        enterVRButton.disabled = !event.detail.supported;
+        enterVRButton.title = event.detail.supported ? "" : "Este navegador no tiene modo VR. Abrí el link desde el navegador del Quest.";
+      }, false);
+      enterVRButton.addEventListener("click", function () {
+        if (unityInstance) unityInstance.Module.WebXR.toggleVR();
+      }, false);
+    </script>
+  </body>
+</html>

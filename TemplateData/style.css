@@ -1,0 +1,42 @@
+html, body { margin: 0; padding: 0; height: 100%; overflow: hidden; background: #0B2124; }
+body { font-family: "Avenir Next", "Segoe UI", system-ui, sans-serif; color: #E8F4F2; }
+[hidden] { display: none !important; }
+
+#unity-container { position: fixed; inset: 0; }
+#unity-canvas { display: block; width: 100%; height: 100%; background: #0B2124; outline: none; }
+
+#carga {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 14px; padding: 24px; text-align: center;
+  background: #0B2124;
+}
+.marca { margin: 0; font-size: 13px; letter-spacing: 0.18em; text-transform: uppercase; color: #9FC3BE; }
+#carga h1 { margin: 0; font-size: clamp(30px, 6vw, 56px); font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; }
+.carriles { width: min(260px, 60vw); height: 10px; border-top: 3px solid #4FD1CB; border-bottom: 3px solid #4FD1CB; }
+#barra { width: min(320px, 80vw); height: 6px; margin-top: 18px; border-radius: 3px; background: #17393A; overflow: hidden; }
+#barra-llena { width: 0; height: 100%; background: #4FD1CB; transition: width 0.2s; }
+#estado { margin: 0; font-size: 14px; color: #9FC3BE; font-variant-numeric: tabular-nums; }
+
+#controles {
+  position: absolute; left: 16px; right: 16px; bottom: 16px;
+  display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 12px;
+  pointer-events: none;
+}
+#controles > * { pointer-events: auto; }
+#ayuda {
+  max-width: 560px; padding: 10px 14px; border-radius: 10px;
+  background: rgba(11, 33, 36, 0.8); color: #CFE5E1;
+  font-size: 13px; line-height: 1.45;
+}
+#ayuda p { margin: 0; }
+#ayuda p + p { margin-top: 4px; }
+#entervr {
+  font: inherit; font-size: 18px; font-weight: 700;
+  padding: 14px 26px; border: 0; border-radius: 999px;
+  background: #4FD1CB; color: #062022; cursor: pointer;
+}
+#entervr:disabled { background: #2A4B4B; color: #8FB2AD; cursor: not-allowed; }
+#entervr:focus-visible { outline: 3px solid #E8F4F2; outline-offset: 3px; }
+
+@media (prefers-reduced-motion: reduce) { #barra-llena { transition: none; } }

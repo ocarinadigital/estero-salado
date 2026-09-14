@@ -1,0 +1,347 @@
+{
+  "superficies": [
+    {
+      "codigo": "H01",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H02",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H03",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H04",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H05",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H06",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H07",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H08",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H09",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H10",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H11",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H12",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H13",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H14",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H15",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H16",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H17",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H18",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "H19",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V01",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V02",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V03",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V04",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V05",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V06",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V07",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V08",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V09",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V10",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V11",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V12",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V13",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V14",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V15",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V16",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V17",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V18",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V19",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V20",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V21",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V22",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V23",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V24",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V25",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V26",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V27",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V28",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V29",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    },
+    {
+      "codigo": "V30",
+      "imagenes": [],
+      "video": "",
+      "ajuste": "contener",
+      "silencio": true
+    }
+  ]
+}
