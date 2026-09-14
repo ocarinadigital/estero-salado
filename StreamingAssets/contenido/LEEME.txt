@@ -1,12 +1,12 @@
 CONTENIDO DEL AULA ESTERO SALADO
 
 Cada pantalla y cada kiosco tiene un código (H01 a H19, V01 a V30), el mismo del mapa del plan.
-contenido.json dice qué muestra cada código.
+contenido.json dice qué muestra cada código. Las rutas siempre empiezan con contenido/.
 
 - Imagen fija: poné el archivo en imagenes/pantallas (horizontales) o imagenes/banners (verticales)
-  y escribí su ruta, por ejemplo "imagenes": ["imagenes/pantallas/Inicio.jpg"]
+  y escribí su ruta, por ejemplo "imagenes": ["contenido/imagenes/pantallas/Inicio.jpg"]
 - Diapositivas: varias rutas en orden. Se pasan con el gatillo del control o con un clic.
-- Video: poné el archivo en la carpeta videos (MP4, H.264) y escribí "video": "videos/Nombre.mp4"
+- Video: poné el archivo en la carpeta videos (MP4, H.264) y escribí "video": "contenido/videos/Nombre.mp4"
 - ajuste: "contener" (se ve entera), "cubrir" (llena la pantalla y recorta) o "estirar".
 
 Si un código no tiene imágenes ni video, muestra su marcador de la carpeta marcadores.
